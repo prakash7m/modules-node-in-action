@@ -1,0 +1,19 @@
+{
+  "name": "modules-node-in-action",
+  "version": "1.0.0",
+  "description": "The application to learn node modules, play around with various techniques and features.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakash7m/modules-node-in-action.git"
+  },
+  "author": "Prakash Paudel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakash7m/modules-node-in-action/issues"
+  },
+  "homepage": "https://github.com/prakash7m/modules-node-in-action#readme"
+}
